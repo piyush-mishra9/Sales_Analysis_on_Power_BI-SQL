@@ -424,3 +424,8 @@ Retail_Sales_Analysis_Power_BI/
 ---
 
 *If you find this project useful, consider starring the repository.*
+
+
+
+👨‍💻 Author
+Piyush Mishra
